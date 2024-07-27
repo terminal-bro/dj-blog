@@ -1,2 +1,0 @@
-# dj-blog
-# dj-blog
